@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @george1605
-- 👀 I’m interested in C++, Java, C# and Web Technologies
+- 👀 I’m interested in C++, Python , Java, C# and Web Technologies
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [email]

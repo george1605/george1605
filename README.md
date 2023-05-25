@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Rust & Lua
 - 💞️ I’m looking to collaborate on embedded systems software
 - 📫 How to reach me: <a href="mailto:georgecord.liis@gmail.com">email</a>
+- Starting a blog: <a href="astro-hack-eight.vercel.app">AstroBlog</a>
 <br>
 <center><details style="border:1px solid lime;background-color:black;">
   <summary>⬇️ See more</summary>

@@ -5,3 +5,4 @@
 - Currently learning Rust and C#
 
 Instagram: <a href="https://www.instagram.com/georgecorduneanu">@georgecorduneanu</a>
+Linkedin: <a href="https://www.linkedin.com/in/alin-george-corduneanu-a33462288/">Alin George Corduneanu</a>

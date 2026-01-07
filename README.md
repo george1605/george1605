@@ -5,5 +5,5 @@
 - Currently learning Rust and C#
 
 Instagram: <a href="https://www.instagram.com/georgecorduneanu">@georgecorduneanu</a>
-Linkedin: <a href="https://www.linkedin.com/in/alin-george-corduneanu-a33462288/">Alin George Corduneanu</a>
+<a href="https://www.linkedin.com/in/alin-george-corduneanu-a33462288/">![Static Badge](https://img.shields.io/badge/Linkedin-profile-blue)</a>
 <a href="https://leetcode.com/u/george160505/">![Static Badge](https://img.shields.io/badge/LeetCode-profile?style=flat-square&logo=leetcode&logoColor=white)</a>
